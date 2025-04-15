@@ -1,0 +1,80 @@
+# GUIDA AI MARCATORI DI TRANSIZIONE TRA LINEE NARRATIVE
+
+Questo documento definisce le tecniche specifiche per creare continuità tra le tre linee narrative stilisticamente diverse del romanzo. Utilizzare questi marcatori per rafforzare l'unità dell'opera nonostante le differenze stilistiche.
+
+## OGGETTI PONTE
+
+Gli oggetti ponte sono elementi fisici che appaiono in tutte e tre le linee narrative, creando continuità visiva e simbolica. Ogni oggetto deve essere presentato in modo coerente con lo stile della rispettiva linea narrativa.
+
+| Oggetto | Linea Fosco (Lansdale) | Linea Teresa (Haruf) | Linea Trovato (Gresham) |
+|---------|------------------------|----------------------|-------------------------|
+| **Spillone d'argento** | Indizio forense, analizzato con occhio scientifico | Simbolo di dignità personale e protezione | Ossessione visiva, ricordo persecutorio |
+| **Orologio da taschino** | Elemento di scena legato alla precisione dell'indagine | Ritmo della giornata, tradizione, continuità | Conto alla rovescia, pressione temporale |
+| **Bottone d'ottone** | Prova materiale, traccia lasciata dai colpevoli | Ricordo di una giacca militare, memoria del passato | Simbolo di colpa, cosa persa che non può essere recuperata |
+| **Coltello da cucina** | Potenziale arma, esaminato clinicamente | Strumento quotidiano di lavoro e sostentamento | Minaccia latente, estensione della violenza interiore |
+| **Quaderno di Renato** | Elemento investigativo che rivela movente | Promessa di futuro, testimonianza da proteggere | Simbolo di un'innocenza distrutta |
+
+## FRASI ECO
+
+Le frasi eco sono espressioni che si ripetono in tutte le linee narrative, adattate allo stile di ciascuna. Creano un senso di coerenza tematica e risonanza emotiva.
+
+| Tema della frase | Linea Fosco (Lansdale) | Linea Teresa (Haruf) | Linea Trovato (Gresham) |
+|------------------|------------------------|----------------------|-------------------------|
+| **Verità nascosta** | "La verità è come il fango. Più lo mescoli, più diventa torbido." | "C'è verità nel silenzio, più che nelle parole degli uomini." | "Verità. Una parola vuota. Una scatola che contiene solo ciò che decidi di metterci." |
+| **Mani e colpa** | "Mani pulite. Mai viste in questo lavoro. Nemmeno le sue." | "Le sue mani conoscevano il peso delle cose. Il peso del lavoro. Il peso delle scelte." | "Le sue mani tremano quando è solo. Solo allora. Come se sapessero cosa hanno fatto." |
+| **Tempo che passa** | "Il tempo di un'indagine è come un cane che insegue la coda. Prima o poi si stanca." | "Il tempo alla cascina seguiva il sole e le stagioni. Non gli orologi." | "Il tempo è una cella che si restringe. Ogni giorno. Ogni ora. Ogni respiro." |
+| **Sguardo rivelatore** | "Gli occhi parlano. Sempre. Anche quando la bocca mente." | "Lei vedeva oltre gli sguardi, oltre le parole. Vedeva ciò che gli uomini cercavano di nascondere." | "Nei suoi occhi c'era qualcosa. L'aveva visto subito. Come guardare in un pozzo profondo e vedere qualcosa muoversi sul fondo." |
+
+## STRUTTURA DEI CAPITOLI E TRANSIZIONI
+
+Per massimizzare l'efficacia delle transizioni tra le linee narrative, seguire queste linee guida:
+
+### Modello di alternanza
+
+Strutturare l'alternanza dei capitoli secondo questo schema circolare:
+
+1. Fosco → Teresa → Trovato → Fosco...
+
+### Transizioni di apertura e chiusura
+
+Ogni capitolo dovrebbe:
+
+1. **Apertura** - Richiamare un elemento (oggetto, frase, luogo) del capitolo precedente, anche se appartiene a una linea narrativa diversa
+2. **Chiusura** - Introdurre un elemento che verrà ripreso nel capitolo successivo
+
+### Esempio di transizione tra linee narrative
+
+| Posizione | Linea Fosco (capitolo 3) | Linea Teresa (capitolo 4) | Linea Trovato (capitolo 5) |
+|-----------|--------------------------|---------------------------|----------------------------|
+| **Ultima frase** | Fosco solleva il bottone d'ottone controluce. C'è qualcosa inciso sopra. Tre gigli. Una famiglia nobile. O qualcuno che vuole sembrarlo. | | |
+| **Prima frase** | | Teresa pulisce la credenza con movimenti circolari. La stoffa passa sopra l'intarsio dei tre gigli. Lo stemma che l'avvocato aveva fatto incidere sui bottoni della sua giacca buona. Un vezzo che non gli aveva mai perdonato. | |
+| **Ultima frase** | | Teresa sistema lo spillone d'argento sul petto. Non è preziosa la foglia di quercia. È il ricordo che porta con sé che non ha prezzo. | |
+| **Prima frase** | | | Trovato sogna di nuovo la donna. Quella con lo spillone. Gli occhi che lo fissano mentre muore. La foglia d'argento che sembra brillare al buio, puntata sul suo petto come un'accusa. |
+
+## LUOGHI SPECCHIO
+
+I luoghi specchio sono ambientazioni che appaiono in tutte le linee narrative, viste da prospettive diverse e in tempi diversi.
+
+| Luogo | Linea Fosco (Lansdale) | Linea Teresa (Haruf) | Linea Trovato (Gresham) |
+|-------|------------------------|----------------------|-------------------------|
+| **Cucina della cascina** | Scena del crimine clinica, piena di indizi e sangue secco | Centro vitale della casa, luogo di potere domestico e affetti | Obiettivo della rapina, territorio da conquistare e dominare |
+| **Granaio** | Luogo di indagine secondario, nasconde segreti | Spazio di libertà e conversazioni private con Renato | Nascondiglio temporaneo durante la pianificazione, claustrofobico |
+| **Strada verso Torino** | Percorso d'indagine, connessione tra mondi | Memoria di viaggi rari e preziosi, simbolo di libertà negata | Via di fuga, percorso di dannazione |
+| **Cisterna abbandonata** | Luogo di prova definitiva, rivelazione macabra | Luogo di paura ancestrale, evitato nei racconti | Destinazione finale per le vittime, abisso morale |
+
+## APPLICAZIONE PRATICA NEL PROCESSO DI SCRITTURA
+
+1. Prima di richiedere una nuova scena, identificare:
+   - A quale linea narrativa appartiene
+   - In quale punto della storia si colloca
+   - Quali marcatori di transizione utilizzare
+
+2. Includere nel prompt:
+   - Lo stile specifico della linea narrativa
+   - I marcatori di transizione da includere
+   - Eventuali connessioni con capitoli precedenti o successivi
+
+3. Dopo aver ricevuto il testo, verificare:
+   - La coerenza stilistica con la linea narrativa
+   - La presenza e l'efficacia dei marcatori di transizione
+   - La continuità con i capitoli precedenti

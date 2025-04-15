@@ -1,0 +1,38 @@
+# TABELLA PERSONAGGI COMPLETA - PROGETTO VILLARBASSE
+
+| Nominativo | Nome Nuovo | Ruolo | Tipologia | Note |
+|------------|------------|-------|-----------|------|
+| Losco, Armando | Fosco, Armando | POV (Protagonista) | Fantasia | Sottotenente comandante dei Carabinieri di Venaria |
+| Cravero, Giovanni | Cravero, Giovanni | Principale | Fantasia | Brigadiere che affianca Foschi nelle indagini |
+| Cravero, Elena | Cravero, Elena | Secondario | Fantasia | Figlia di Giovanni Cravero |
+| Montanari, Clara | Montanari, Clara | Principale (Antagonista) | Fantasia | Giornalista spregiudicata |
+| Marshall, Generale | Marshall, Generale | Principale (Antagonista) | Reale | Comandante della polizia alleata |
+| Bianchi, Rosa | Ramonda, Viola | Secondario | Fantasia | Infermiera |
+| Morra, Maria Grazia | Battaglia, Maria Grazia | Secondario | Fantasia | Sorella di Renato Battaglia che cerca la verità |
+| Morra, Renato | Battaglia, Renato | POV (Vittima) | Reale | Genero di Antonio Falchero e Carla Vercelli, padre di Pierino e Angelica |
+| Morra, Carlo | Battaglia, Carlo | Secondario | Reale | Fratello di Renato Battaglia, inizialmente sospettato |
+| Morra, Pietro | Battaglia, Pietro | Secondario | Reale | Fratello di Renato Battaglia, inizialmente sospettato |
+| Morra, Pierino | Battaglia, Pierino | Secondario | Reale | Figlio di Renato Battaglia e nipote di Falchero |
+| Morra, Angelica | Battaglia, Angelica | Comparsa | Reale | Figlia neonata di Renato Battaglia, nipotina di Antonio Falchero |
+| D'Ignoti, Giovanni | Trovato, Giovanni | POV (Bandito) | Reale | Uno dei quattro rapinatori |
+| D'Ignoti, Immacolata | Trovato, Immacolata | Secondario | Reale | Sorella di Giovanni Trovato, ha appena partorito |
+| Saporito, Alfredo (Pietro Lala) | Corsaro, Alfredo (Lo Piccolo, Pietro) | Principale (Bandito) | Reale | Uno dei quattro rapinatori, ex lavorante della cascina |
+| La Barbera, Francesco | Marino, Francesco | Principale (Bandito) | Reale | Uno dei quattro rapinatori |
+| Puleo, Giovanni | Rizzo, Giovanni | Principale (Bandito) | Reale | Uno dei quattro rapinatori |
+| Fiandaca, Carmelo (il Boia) | Vitale, Carmelo (il Boia) | Secondario | Reale | Ex partigiano siciliano inizialmente sospettato |
+| Ferrero, Antonio | Falchero, Antonio | Secondario (Vittima) | Reale | Fattore della cascina Bregolato |
+| Ferrero, Annina | Falchero, Annina | Secondario (Vittima) | Reale | Moglie di Renato Verna, madre di Pierino e Angelica |
+| Varetto, Anna | Vercelli, Anna | Secondario (Vittima) | Reale | Moglie di Antonio Falchero |
+| Gianoli, Massimo | Monteforte, Massimo | Secondario | Reale | Avvocato e proprietario della cascina |
+| Buonanno, Umberto (Berto) | Longhi, Umberto (Berto) | Comparsa | Reale | Uomo di fiducia dell'avvocato Bregolato |
+| Cipolla, Alfredo | Cipolla, Alfredo | Comparsa | Reale | Cappellano delle carceri che assistette i condannati |
+| Coletto, Enrico | Moretti, Enrico | Comparsa | Reale | Giovane mugnaio che scoprì i corpi |
+| Delfino, Teresa | Conti, Teresa | Comparsa | Reale | Domestica di Massimo Bregolato |
+| Don Renzo | Don Renzo | Secondario | Reale | Parroco di Villarbasse |
+| Doleatto, Gregorio | Pagnotto, Gregorio | Comparsa | Reale | Marito di Fiorina Bellini |
+| Maffiotto, Fiorina | Bellini, Fiorina | Comparsa | Reale | Domestica |
+| Martinoli, Rosa | Ferretti, Rosa | Comparsa | Reale | Domestica |
+| Rosso, Domenico | Galanti, Domenico | Comparsa | Reale | Marito di Rosa Ferretti |
+| Garrone, Alfredo | Sartori, Alfredo | Secondario | Reale | Garzone che scoprì la tragedia |
+| Gastaldi, Marcellino | Fornari, Marcellino | Comparsa | Reale | Nuovo bracciante |
+| Napoli, Domenico | Romano, Domenico | Comparsa | Reale | Proprietario dell'appartamento affittato a Torino |

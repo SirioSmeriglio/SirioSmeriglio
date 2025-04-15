@@ -1,0 +1,93 @@
+# TEMPLATE DI PROMPT PER LE TRE LINEE NARRATIVE - PROGETTO VILLARBASSE
+
+** ISTRUZIONI GENERALI**
+Questo documento contiene i template di prompt da utilizzare quando richiedi contenuti per ciascuna delle tre linee narrative del romanzo. Copiare e incollare il template appropriato, personalizzando le specifiche della scena richiesta.
+
+
+## 1. LINEA NARRATIVA DI FOSCO (NOIR INVESTIGATIVO - STILE LANSDALE)
+
+* Scrivi una scena per la linea narrativa di Armando Fosco nel mio romanzo noir sulla strage di Villarbasse, seguendo lo stile di Joe R. Lansdale.
+
+**CONTESTO DELLA SCENA:
+[Inserire qui breve descrizione della scena richiesta]
+
+**ELEMENTI STILISTICI ESSENZIALI:
+- Usa la terza persona, tempo presente
+- Focalizzazione interna su Fosco
+- Dialoghi taglienti e realistici, spesso con battute secche
+- Frasi brevi, ritmo serrato
+- Descrizioni minime ma efficaci, concentrate su dettagli rivelatori
+- Linguaggio crudo quando necessario, mai eufemistico
+- Mostra i pensieri di Fosco con frasi brevi intercalate nell'azione
+- Atmosfera cupa ma con occasionali lampi di umorismo nero
+
+**ESEMPIO DI TONO:
+"La nebbia soffoca i contorni della campagna. Odore di terra bagnata e letame. Freddo che penetra nelle ossa. Il motore di una Fiat 1100 dei carabinieri rompe il silenzio. Appare dalla nebbia, livrea nera con il tetto bianco, fango sulle fiancate."
+
+**NOTE AGGIUNTIVE:
+[Inserire qui eventuali indicazioni specifiche per questa scena]
+
+
+## 2. LINEA NARRATIVA DI TERESA (REALISMO AMERICANO - STILE HARUF)
+
+*Scrivi una scena per la linea narrativa di Teresa Conti nel mio romanzo sulla strage di Villarbasse, seguendo lo stile di Kent Haruf.
+
+**CONTESTO DELLA SCENA:
+[Inserire qui breve descrizione della scena richiesta]
+
+**ELEMENTI STILISTICI ESSENZIALI:
+- Usa la terza persona, tempo presente
+- Focalizzazione profonda su Teresa
+- Dialoghi misurati, spesso senza virgolette
+- Frasi semplici e dirette che rivelano complessità emotive
+- Descrizioni precise della vita quotidiana e dei gesti abituali
+- Attenzione ai ritmi della natura e del lavoro rurale
+- Dignità nei personaggi comuni, anche nei momenti di difficoltà
+- Rivela la profondità emotiva attraverso piccoli gesti concreti
+- Tono compassionevole ma mai sentimentale
+
+**ESEMPIO DI TONO:
+"Teresa si sveglia prima dell'alba. È sempre stato così. Il suo corpo conosce l'ora ancora prima che il gallo canti. Si alza nel buio, i piedi nudi sul pavimento freddo. Si veste senza accendere la luce. Conosce ogni bottone, ogni piega della stoffa. Ha preparato gli abiti la sera prima, come ogni sera da trent'anni."
+
+**NOTE AGGIUNTIVE:
+[Inserire qui eventuali indicazioni specifiche per questa scena]
+
+
+## 3. LINEA NARRATIVA DI TROVATO (NOIR PSICOLOGICO - STILE GRESHAM)
+
+*Scrivi una scena per la linea narrativa di Giovanni Trovato nel mio romanzo sulla strage di Villarbasse, seguendo lo stile di William Lindsay Gresham (Nightmare Alley).
+
+**CONTESTO DELLA SCENA:
+[Inserire qui breve descrizione della scena richiesta]
+
+**ELEMENTI STILISTICI ESSENZIALI:
+- Usa la terza persona, tempo presente ma con qualità febbrile
+- Focalizzazione interna su Trovato, allucinatoria nei momenti di tensione
+- Dialoghi scarni che nascondono significati minacciosi
+- Frasi che alternano brevità ossessiva a flussi di coscienza frammentati
+- Immagini viscerali e sensoriali che evocano intrappolamento
+- Paranoia crescente, sensazione di inevitabilità
+- Contrasto tra pensieri interiori distorti e comportamento esterno controllato
+- Simbolismo ricorrente, ossessioni e visioni
+- Tono fatalistico, discesa progressiva nella spirale dell'autodistruzione
+
+**ESEMPIO DI TONO:
+"Trovato conta i passi dalla porta alla finestra. Diciotto. Diciotto passi. Come i mesi che ha passato nel carcere di Palermo. Come l'età di suo fratello quando è morto. I numeri lo seguono. Lo inseguono. Gli si attaccano addosso come sanguisughe. Se chiude gli occhi, li vede. Rossi. Pulsanti. Un pensiero gli attraversa la mente: e se sapessero già? Se lo stessero aspettando?"
+
+**NOTE AGGIUNTIVE:
+[Inserire qui eventuali indicazioni specifiche per questa scena]
+
+
+### INDICAZIONI PER L'INTEGRAZIONE DELLE LINEE NARRATIVE
+
+Per mantenere coesione tra le tre linee narrative stilisticamente diverse, utilizzare queste tecniche:
+
+1. **Oggetti ponte** - Identificare 3-5 oggetti significativi che appaiono in tutte le linee narrative (es. un orologio da taschino, uno spillone d'argento, un bottone d'ottone)
+
+2. **Frasi eco** - Creare frasi o espressioni che si ripetono nelle diverse linee con leggere variazioni
+
+3. **Luoghi specchio** - Utilizzare gli stessi luoghi visti da prospettive diverse nelle tre linee
+
+4. **Momenti convergenti** - Identificare 2-3 scene cruciali in cui le linee narrative quasi si toccano, pur mantenendo la separazione temporale
+
+Quando si richiedono scene che includono questi elementi di connessione, specificarlo esplicitamente nel prompt nella sezione "NOTE AGGIUNTIVE".

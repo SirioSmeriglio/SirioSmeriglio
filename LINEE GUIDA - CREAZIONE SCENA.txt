@@ -1,0 +1,153 @@
+# Guida all'ottimizzazione del progetto narrativo Villarbasse
+
+## Introduzione
+Questa guida ti fornirà un processo passo-passo per integrare le ottimizzazioni suggerite al tuo progetto narrativo sulla strage di Villarbasse. L'obiettivo è mantenere i punti di forza dell'approccio attuale mentre si aggiungono elementi che renderanno la collaborazione con l'IA ancora più efficace.
+
+## FASE 1: CREARE NOTE DI REGIA PER OGNI SCENA
+
+### Passo 1: Sviluppa un template di scene
+Crea un modello standard da utilizzare quando richiedi nuove scene all'IA:
+
+
+# NOTE DI REGIA - [TITOLO SCENA]
+
+## Informazioni di base
+- Linea narrativa: [Investigativa/Banditi/Vittime]
+- POV: [Personaggio]
+- Tempo/Luogo: [Data, ora, location]
+- Personaggi presenti: [Elenco]
+
+## Obiettivi narrativi
+- Rivelare: [Informazioni da svelare al lettore]
+- Nascondere: [Elementi da mantenere misteriosi]
+- Sviluppare: [Aspetti del personaggio da evidenziare]
+
+## Tono emotivo
+- Atmosfera: [Tesa/Nostalgica/Minacciosa/ecc.]
+- Ritmo: [Lento/Serrato/Alternato]
+- Note stilistiche: [Enfasi su dialoghi/Descrizioni sensoriali/ecc.]
+
+## Collegamenti storici
+- Eventi reali da integrare: [Dettagli storici specifici]
+- Accuratezza da mantenere: [Elementi storici non modificabili]
+
+## Collegamenti con altre linee narrative
+- Parallelismi: [Scene correlate nelle altre linee]
+- Contrasti: [Elementi che creano tensione tra le linee]
+
+
+## FASE 2: DEFINIRE LO STILE DI CIASCUNA LINEA NARRATIVA
+
+### Passo 1: Crea un documento di stile per ogni linea narrativa
+Per ciascuna delle tre linee, definisci:
+
+#### Linea Investigativa (Losco)
+- **Stile verbale**: Asciutto, tecnico quando parla di indagini, più emotivo nei momenti di riflessione
+- **Ritmo**: Alternanza tra momenti analitici e sequenze d'azione
+- **Filtro percettivo**: Attenzione ai dettagli rilevanti, osservazione professionale
+- **Esempi di stile**: [Inserisci 2-3 paragrafi esemplificativi]
+
+#### Linea dei Banditi (D'Ignoti)
+- **Stile verbale**: Crudo, con espressioni dialettali, introspettivo
+- **Ritmo**: Nervoso, con flashback e anticipazioni
+- **Filtro percettivo**: Paranoia, calcolo del rischio, rapporto con gli altri banditi
+- **Esempi di stile**: [Inserisci 2-3 paragrafi esemplificativi]
+
+#### Linea delle Vittime (Renato Morra)
+- **Stile verbale**: Emotivo, quotidiano, con attenzione a dettagli ordinari
+- **Ritmo**: Costruzione lenta della tensione, routine spezzata da presagi
+- **Filtro percettivo**: Vita familiare, speranze per il futuro, piccoli segni premonitori
+- **Esempi di stile**: [Inserisci 2-3 paragrafi esemplificativi]
+
+
+## FASE 3: PIANIFICAZIONE DELLE INTERSEZIONI NARRATIVE
+
+### Passo 1: Crea una timeline degli eventi
+Sviluppa una cronologia che includa:
+- Eventi storici chiave
+- Eventi interni alla storia
+- Punti di intersezione tra le tre linee
+
+### Passo 2: Identifica i momenti cruciali di intersezione
+Determina dove e come le linee narrative si incontrano:
+- Stessi eventi visti da prospettive diverse
+- Informazioni che passano da una linea all'altra
+- Conseguenze dirette e indirette tra le linee
+
+### Passo 3: Prepara le "note di transizione"
+Per ogni punto di intersezione, crea note che specifichino:
+- Quali informazioni sono note a quali personaggi
+- Quali elementi devono rimanere misteriosi
+- Come creare tensione attraverso la conoscenza asimmetrica
+
+## FASE 4: PROCESSO DI SCRITTURA ITERATIVO
+
+### Passo 1: Stabilisci un ciclo di feedback
+Definisci un processo per ogni capitolo:
+1. Fornisci le note di regia all'IA
+2. Ricevi la prima bozza
+3. Valuta il risultato con domande specifiche:
+   - Lo stile corrisponde alla linea narrativa?
+   - Gli obiettivi narrativi sono stati raggiunti?
+   - La coerenza storica è mantenuta?
+4. Richiedi revisioni mirate
+5. Finalizza il capitolo
+
+### Passo 2: Crea un documento di continuità
+Mantieni un documento aggiornato che includa:
+- Dettagli rivelati in ciascun capitolo
+- Evoluzione dei personaggi
+- Domande in sospeso
+- Indizi disseminati
+
+## FASE 5: SCRITTURA DI PROMPT OTTIMIZZATI
+
+### Modello di prompt per nuove scene:
+
+Continua il mio romanzo noir su Villarbasse con la seguente scena.
+
+[INSERIRE NOTE DI REGIA]
+
+IMPORTANTE:
+- Rispetta lo stile della linea narrativa [specificare]
+- Mantieni coerenza con i capitoli precedenti
+- Integra naturalmente gli elementi storici
+- Concentrati sui dialoghi e sull'atmosfera noir
+
+Ecco l'ultimo paragrafo del capitolo precedente per mantenere continuità:
+[INSERIRE PARAGRAFO FINALE PRECEDENTE]
+
+
+## Esempio completo di applicazione
+
+Per illustrare come applicare questo sistema, ecco un esempio di note di regia per la prossima scena della linea investigativa di Losco:
+
+```
+# NOTE DI REGIA - CONFRONTO TRA LOSCO E MARSHALL
+
+## Informazioni di base
+- Linea narrativa: Investigativa
+- POV: Armando Losco
+- Tempo/Luogo: 21 novembre 1945, tarda mattinata, ufficio di Marshall presso il comando americano
+- Personaggi presenti: Losco, Marshall, segretaria americana, soldato di guardia
+
+## Obiettivi narrativi
+- Rivelare: La pressione politica degli americani per risolvere velocemente il caso
+- Nascondere: Le reali intenzioni di Marshall riguardo ai sospetti meridionali
+- Sviluppare: Il conflitto interno di Losco tra obbedienza e ricerca della verità
+
+## Tono emotivo
+- Atmosfera: Tensione trattenuta, formalità superficiale che nasconde ostilità
+- Ritmo: Dialogo serrato con momenti di silenzio carico di tensione
+- Note stilistiche: Enfasi sui dettagli fisici che tradiscono lo stato emotivo (mani strette, mascelle serrate)
+
+## Collegamenti storici
+- Eventi reali da integrare: Tensioni tra autorità italiane e americane nel dopoguerra, pregiudizi contro i meridionali
+- Accuratezza da mantenere: Gerarchia militare, procedure di indagine dell'epoca
+
+## Collegamenti con altre linee narrative
+- Parallelismi: Mentre Losco viene pressato da Marshall, D'Ignoti sta cercando di fuggire, creando tensione drammatica
+- Contrasti: L'ordine apparente dell'ufficio americano vs il caos della scena del crimine
+```
+
+Questa struttura ti permetterà di ottenere risultati più precisi e coerenti dall'IA, mantenendo al contempo il controllo creativo sul tuo progetto.

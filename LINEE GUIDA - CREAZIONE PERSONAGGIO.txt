@@ -1,0 +1,182 @@
+# TEMPLATE PER CATEGORIE DI PERSONAGGI
+
+## 1. TEMPLATE SCHEDA PERSONAGGIO POV
+
+
+**PROFILO ESSENZIALE**
+
+1.  Nome:
+
+2.  Ruolo: (Es. Tenente dei Carabinieri, Bandito, Vittima, Giornalista,
+    etc.)
+
+3.  Funzione narrativa: (Es. Protagonista della linea \[specifica linea
+    narrativa\], Antagonista principale, Interesse romantico del
+    protagonista, Punto di vista esterno, etc.)
+
+**CARATTERIZZAZIONE VISIVA**
+
+1.  Aspetto distintivo: (Cicatrici, tratti particolari, colore degli
+    occhi, etc.)
+
+2.  Abbigliamento: (Come si veste abitualmente, cosa indossa in momenti
+    specifici, dettagli sul suo aspetto)
+
+3.  Gesti ricorrenti: (Quali movimenti o azioni compie spesso, cosa
+    rivelano questi gesti)
+
+4.  Postura: (Come si tiene, cosa comunica la sua postura)
+
+**VOCE NARRATIVA (solo se il personaggio è POV di una sezione)**
+
+1.  Tono generale: (Asciutto, emotivo, sarcastico, formale, informale,
+    etc.)
+
+2.  Espressioni tipiche: (Frasi che usa spesso, intercalari, tic
+    linguistici)
+
+3.  Educazione linguistica: (Come parla in base al suo background,
+    accenti, registro linguistico)
+
+4.  Pensieri interiori: (Come pensa, caratteristiche principali dei suoi
+    pensieri)
+
+5.  Esempio di voce narrativa: (Breve paragrafo esemplificativo)
+
+**ARCO NARRATIVO**
+
+1.  Stato iniziale: (Condizione iniziale del personaggio)
+
+2.  Punto di svolta: (Eventi o decisioni cruciali che cambiano il
+    personaggio)
+
+3.  Trasformazione: (Come evolve il personaggio nel corso della storia)
+
+4.  Risoluzione: (Condizione finale del personaggio)
+
+**CONFLITTI**
+
+1.  Interno primario: (Principale lotta interna del personaggio)
+
+2.  Interno secondario: (Altre tensioni interne)
+
+3.  Esterno primario: (Conflitto principale con altri personaggi o
+    circostanze)
+
+4.  Esterno secondario: (Altri conflitti esterni)
+
+**RELAZIONI CHIAVE (Relazione con ogni personaggio significativo)**
+
+Nome Personaggio:
+
+-   Dinamica: (Come interagiscono, tipo di relazione)
+
+-   Evoluzione: (Come cambia il loro rapporto nel tempo)
+
+-   Funzione: (Ruolo di questa relazione nello sviluppo del personaggio)
+
+(duplicare per ogni relazione significativa)
+
+**SEGRETI E MOTIVAZIONI**
+
+1.  Segreto principale: (Cosa nasconde il personaggio)
+
+2.  Motivazione dichiarata: (Cosa dice di volere)
+
+3.  Motivazione nascosta: (Reale spinta interiore)
+
+4.  Paura profonda: (Principale timore del personaggio)
+
+**TECNICHE DI CARATTERIZZAZIONE (per scrittura)**
+
+1.  Per dialoghi: (Come parla il personaggio nei dialoghi)
+
+2.  Per azioni: (Come agisce e si comporta)
+
+3.  Per pensieri: (Come vengono presentati i suoi pensieri)
+
+**TRAIETTORIA NELLE SCENE (presentazione del personaggio nelle varie fasi narrative)**
+
+1.  Introduzione (Atto 1):
+
+2.  Sviluppo (Atto 2):
+
+3.  Climax (Atto 3):
+
+4.  Risoluzione (Atto 4):
+
+
+## 2. PERSONAGGIO PRINCIPALE
+
+** [NOME PERSONAGGIO]**
+
+**ESSENZA** [In una frase di massimo 15 parole]
+Capitano autoritario ossessionato dall'ordine. Nasconde un passato di decisioni discutibili dietro l'uniforme impeccabile.
+
+**FUNZIONE NARRATIVA**
+- Primaria: [Antagonista diretto/Mentore corrotto/Alleato inaffidabile/ecc.]
+- Evoluzione: [Come cambia il suo ruolo nella storia: da antagonista a possibile alleato? Da alleato a traditore?]
+
+**PRESENZA FISICA**
+- Elemento distintivo: [Un singolo dettaglio visivo memorabile]
+- Movimento caratteristico: [Come si muove, un gesto ricorrente]
+- Voce: [Tono, volume, particolarità linguistiche]
+
+**COMPORTAMENTO IN SCENA**
+- Con il protagonista: [Dinamica principale: sfida, condiscendenza, manipolazione, ecc.]
+- Con gli altri: [Come si comporta con personaggi diversi dal protagonista]
+- Sotto pressione: [Reazione tipica quando è in difficoltà]
+
+**CONFLITTO CENTRALE**
+- Esterno: [Obiettivo concreto che contrasta con quello del protagonista]
+- Interno: [Lotta personale, spesso nascosta al protagonista]
+
+**FRASI O GESTI RICORRENTI** [2-3 esempi concreti]
+- "Non mi interessa come, voglio risultati entro domani."
+- Tamburellare con la penna sulla scrivania quando è impaziente.
+
+**INCONTRI CHIAVE CON IL PROTAGONISTA**
+1. Prima apparizione: [Breve descrizione della scena]
+2. Confronto centrale: [Punto della trama dove si scontrano apertamente]
+3. Risoluzione: [Come si conclude il loro rapporto]
+
+
+## 3. PERSONAGGI SECONDARI
+
+
+**[NOME PERSONAGGIO]**
+
+**FUNZIONE NELLA TRAMA** [In una sola frase]
+Informatore poco affidabile che conosce i bassifondi ma nasconde sempre qualcosa.
+
+**TRATTO DISTINTIVO IMMEDIATO**
+- Visivo: [Un elemento dell'aspetto facilmente memorizzabile]
+- Comportamentale: [Un'abitudine o tic che lo caratterizza]
+
+**RELAZIONE CON I PROTAGONISTI**
+- Con [Protagonista 1]: [Dinamica essenziale]
+- Con [Protagonista 2]: [Se rilevante]
+
+**ARCO NARRATIVO MINIMO**
+- Stato iniziale: [Come appare la prima volta]
+- Cambiamento: [Evoluzione essenziale, se presente]
+
+**INFORMAZIONI/SERVIZI FORNITI**
+- [Elenco puntato di cosa questo personaggio porta alla storia]
+
+**ELEMENTO SORPRESA** [Facoltativo]
+- Un aspetto inatteso che emerge nel corso della storia
+
+
+## 4. COMPARSE
+
+**[NOME/RUOLO]**
+
+**FUNZIONE NARRATIVA**
+- [Una sola frase che descrive perché questo personaggio esiste nella storia]
+
+**TRATTO MEMORABILE**
+- [Un singolo dettaglio che lo rende riconoscibile, se riappare]
+
+**SCENA/E DI APPARIZIONE**
+- [Elenco molto breve delle scene in cui compare]
